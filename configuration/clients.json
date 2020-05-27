@@ -1,0 +1,6 @@
+{
+    "clients": [
+        "http://localhost:8080/ehr/app/ehrapi/all",
+        "http://localhost:8080/ehr/app/ehrapi/all1"
+    ]
+}
